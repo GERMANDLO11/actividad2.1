@@ -1,5 +1,5 @@
 # actividad2.1
-https://github.com/GERMANDLO11/actividad2.1/blob/main/ejercicio1.md  
+Actividad2.1_Ejercicio1/ejercicio1.md
 
 https://jekyll-theme-chirpy-7k5.pages.dev/  
 
